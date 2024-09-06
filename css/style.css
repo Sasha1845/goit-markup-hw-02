@@ -29,18 +29,18 @@ address {
   font-style: normal;
 }
 
-.navigation ul a {
+.main-navigation ul a {
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
 
-.navigation ul a:hover {
+.main-navigation ul a:hover {
   color: #404bbf;
 }
 
-.navigation ul a:focus {
+.main-navigation ul a:focus {
   color: #404bbf;
 }
 
@@ -60,7 +60,7 @@ address {
 }
 
 address ul a:hover,
-.navigation ul a:hover {
+.main-navigation ul a:hover {
   color: #404bbf;
 }
 
@@ -74,7 +74,7 @@ address ul a:hover,
   color: #4d5ae5;
 }
 
-.logo .logo-span {
+.logo .dark {
   color: #2e2f42;
 }
 
@@ -82,19 +82,19 @@ address ul a:hover,
   color: #f4f4fd;
 }
 
-.section-1 {
+.hero {
   background-color: #2e2f42;
   text-align: center;
 }
 
-.section-1-h-1 {
+.hero-heading {
   color: #ffffff;
   font-size: 56px;
   letter-spacing: 0.02em;
   line-height: 1.07;
 }
 
-.order-button {
+.primary-button {
   background-color: #4d5ae5;
   color: #ffffff;
   font-weight: 500;
@@ -102,14 +102,14 @@ address ul a:hover,
   letter-spacing: 0.04em;
 }
 
-.order-button:hover,
-.order-button:focus,
-.order-button:active {
+.primary-button:hover,
+.primary-button:focus,
+.primary-button:active {
   background-color: #404bbf;
   cursor: pointer;
 }
 
-.section-header-2 {
+.section-header {
   color: #2e2f42;
   font-size: 36px;
   line-height: 1.11;
@@ -118,7 +118,7 @@ address ul a:hover,
   text-transform: capitalize;
 }
 
-.block-header-1 {
+.block-header {
   color: #2e2f42;
   font-size: 20px;
   font-weight: 500;
