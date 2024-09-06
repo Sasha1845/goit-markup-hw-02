@@ -1,0 +1,157 @@
+body {
+  font-family: "Roboto", sans-serif;
+  color: #434455;
+  background-color: #ffffff;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+header a {
+  color: #2e2f42;
+}
+
+footer {
+  background-color: #2e2f42;
+  color: #f4f4fd;
+}
+
+li {
+  list-style-type: none;
+}
+
+address {
+  font-style: normal;
+}
+
+.navigation ul a {
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.navigation ul a:hover {
+  color: #404bbf;
+}
+
+.navigation ul a:focus {
+  color: #404bbf;
+}
+
+.nav-link {
+  color: #2e2f42;
+}
+
+.contact-link {
+  color: #434455;
+}
+
+.nav-link:active,
+.nav-link:focus,
+.contact-link:active,
+.contact-link:focus {
+  color: #404bbf;
+}
+
+address ul a:hover,
+.navigation ul a:hover {
+  color: #404bbf;
+}
+
+.logo {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+}
+
+.logo .logo-span {
+  color: #2e2f42;
+}
+
+.logo .light {
+  color: #f4f4fd;
+}
+
+.section-1 {
+  background-color: #2e2f42;
+  text-align: center;
+}
+
+.section-1-h1 {
+  color: #ffffff;
+  font-size: 56px;
+  letter-spacing: 0.02em;
+  line-height: 1.07;
+}
+
+.order-button {
+  background-color: #4d5ae5;
+  color: #ffffff;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+}
+
+.order-button:hover,
+.order-button:focus,
+.order-button:active {
+  background-color: #404bbf;
+  cursor: pointer;
+}
+
+.section-header2 {
+  color: #2e2f42;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+  text-transform: capitalize;
+}
+
+.block-header1 {
+  color: #2e2f42;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+
+.team {
+  background-color: #f4f4fd;
+}
+
+.team li {
+  background-color: #ffffff;
+}
+
+.portfolio li {
+  background-color: #ffffff;
+}
+
+.block-portfolio {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.text-portfolio {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
