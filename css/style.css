@@ -87,7 +87,7 @@ address ul a:hover,
   text-align: center;
 }
 
-.section-1-h1 {
+.section-1-h-1 {
   color: #ffffff;
   font-size: 56px;
   letter-spacing: 0.02em;
@@ -109,7 +109,7 @@ address ul a:hover,
   cursor: pointer;
 }
 
-.section-header2 {
+.section-header-2 {
   color: #2e2f42;
   font-size: 36px;
   line-height: 1.11;
@@ -118,7 +118,7 @@ address ul a:hover,
   text-transform: capitalize;
 }
 
-.block-header1 {
+.block-header-1 {
   color: #2e2f42;
   font-size: 20px;
   font-weight: 500;
